@@ -29,7 +29,8 @@ This ensures that you are able to have builds to use during certain steps of you
 - Ability to make a manual build
 - Perforce/Github repo integration
 - Clean up discord notifications
-
+- Clean up Release Output
+- Have a preference save file that tracks amnt of builds made
 
 
 ## Suggestions:
